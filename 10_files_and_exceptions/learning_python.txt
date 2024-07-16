@@ -1,0 +1,4 @@
+In Python you can use files
+In Python you can count to 1 million
+In Python you can print thing into the terminal
+In Python you can use list, dictionaries, tuples...
